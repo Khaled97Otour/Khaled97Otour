@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khaled97Otour
 - 👀 I’m interested in medical fields 
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khaled.a.m.otour.1@gmail.com
 
 <!---
